@@ -1,0 +1,131 @@
+[{
+  "_id": 66,
+  "name": "alupakodi",
+  "status": "Active",
+  "image": "1643893291920_allupakoida.jpg",
+  "description": "alupakodi yummy",
+  "createdAt": {
+    "$date": "2022-02-03T13:01:31.927Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:01:31.927Z"
+  },
+  "__v": 0
+},{
+  "_id": 67,
+  "name": "chole",
+  "status": "Active",
+  "image": "1643893314336_chola.jpg",
+  "description": "spicy chole",
+  "createdAt": {
+    "$date": "2022-02-03T13:01:54.344Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:01:54.344Z"
+  },
+  "__v": 0
+},{
+  "_id": 68,
+  "name": "magge",
+  "status": "Active",
+  "image": "1643893348601_maggi.jpg",
+  "description": "nesley magge",
+  "createdAt": {
+    "$date": "2022-02-03T13:02:28.606Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:02:45.033Z"
+  },
+  "__v": 0
+},{
+  "_id": 69,
+  "name": "momos",
+  "status": "Active",
+  "image": "1643893392399_momo.jpg",
+  "description": "nepali momos",
+  "createdAt": {
+    "$date": "2022-02-03T13:03:12.406Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:03:12.406Z"
+  },
+  "__v": 0
+},{
+  "_id": 70,
+  "name": "nonvage",
+  "status": "Active",
+  "image": "1643893441623_nonvegthali.jpg",
+  "description": "hevy nonvage",
+  "createdAt": {
+    "$date": "2022-02-03T13:04:01.632Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:04:01.632Z"
+  },
+  "__v": 0
+},{
+  "_id": 71,
+  "name": "pav-bhaji",
+  "status": "Active",
+  "image": "1643893469144_paubhaji.jpg",
+  "description": "ravi pav-bhaji",
+  "createdAt": {
+    "$date": "2022-02-03T13:04:29.148Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:04:29.148Z"
+  },
+  "__v": 0
+},{
+  "_id": 72,
+  "name": "pizza",
+  "status": "Active",
+  "image": "1643893501641_pizza.jpg",
+  "description": "dominoze pizaa",
+  "createdAt": {
+    "$date": "2022-02-03T13:05:01.646Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:05:01.646Z"
+  },
+  "__v": 0
+},{
+  "_id": 73,
+  "name": "puri",
+  "status": "Active",
+  "image": "1643893532190_puri.jpg",
+  "description": "home made puri",
+  "createdAt": {
+    "$date": "2022-02-03T13:05:32.195Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:05:32.195Z"
+  },
+  "__v": 0
+},{
+  "_id": 74,
+  "name": "samosa",
+  "status": "Active",
+  "image": "1643893570554_samosa.jpg",
+  "description": "bihari samosa",
+  "createdAt": {
+    "$date": "2022-02-03T13:06:10.559Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-03T13:06:10.559Z"
+  },
+  "__v": 0
+},{
+  "_id": 75,
+  "name": "sweets",
+  "status": "Active",
+  "image": "1643893597128_sweet.jpg",
+  "description": "mohan mithai",
+  "createdAt": {
+    "$date": "2022-02-03T13:06:37.134Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-15T13:32:32.698Z"
+  },
+  "__v": 0
+}]

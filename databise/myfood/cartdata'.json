@@ -1,0 +1,95 @@
+[{
+  "_id": 513,
+  "u_id": 113,
+  "products": [
+    {
+      "_id": 243,
+      "proname": "Cole Cannon",
+      "category": 72,
+      "mrp": 86,
+      "discountmrp": 63,
+      "stock": 57,
+      "status": "Active",
+      "description": "Id qui enim quia se",
+      "image": "1644390149733_pizza.jpg",
+      "createdAt": "2022-02-09T07:02:29.739Z",
+      "updatedAt": "2022-02-09T07:02:29.739Z",
+      "__v": 0,
+      "qty": 1
+    },
+    {
+      "_id": 216,
+      "proname": "amul-butter-panbhaji",
+      "category": 71,
+      "mrp": 38,
+      "discountmrp": 27,
+      "stock": 13,
+      "status": "Active",
+      "description": "Ratione voluptate ir",
+      "image": "1643894722259_paubhaji.jpg",
+      "createdAt": "2022-02-03T13:25:22.264Z",
+      "updatedAt": "2022-02-03T13:25:22.264Z",
+      "__v": 0,
+      "qty": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-12T08:10:04.950Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T04:33:35.843Z"
+  },
+  "__v": 0
+},{
+  "_id": 515,
+  "u_id": 7,
+  "products": [
+    {
+      "_id": 207,
+      "proname": "onion samosa",
+      "category": 74,
+      "mrp": 44,
+      "discountmrp": 45,
+      "stock": 95,
+      "status": "Inactive",
+      "description": "Corporis et duis nis",
+      "image": "1643894053146_samosa.jpg",
+      "createdAt": "2022-02-03T13:14:13.161Z",
+      "updatedAt": "2022-02-03T13:30:17.896Z",
+      "__v": 0,
+      "qty": 4
+    },
+    {
+      "_id": 221,
+      "proname": "sezvan-momo",
+      "category": 69,
+      "mrp": 32,
+      "discountmrp": 72,
+      "stock": 7,
+      "status": "Inactive",
+      "description": "Eveniet eligendi du",
+      "image": "1643957277856_momo.jpg",
+      "createdAt": "2022-02-04T06:47:57.873Z",
+      "updatedAt": "2022-02-04T06:47:57.873Z",
+      "__v": 0,
+      "qty": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-03-14T05:02:14.015Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-19T09:06:03.279Z"
+  },
+  "__v": 0
+},{
+  "_id": 154,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2022-03-21T09:43:23.980Z"
+  },
+  "products": [],
+  "updatedAt": {
+    "$date": "2022-03-21T09:43:23.980Z"
+  }
+}]

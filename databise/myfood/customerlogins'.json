@@ -1,0 +1,40 @@
+[{
+  "_id": 7,
+  "name": "meet patel",
+  "email": "meet@gmail.come",
+  "number": "9998801748",
+  "password": "meetpatel",
+  "createdAt": {
+    "$date": "2022-02-16T12:27:20.765Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-16T12:27:20.765Z"
+  },
+  "__v": 0
+},{
+  "_id": 113,
+  "name": "bhavik ",
+  "email": "bhavik@gmai.com",
+  "number": "1234567890",
+  "password": "bhavik123",
+  "createdAt": {
+    "$date": "2022-03-04T11:33:32.674Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T11:33:32.674Z"
+  },
+  "__v": 0
+},{
+  "_id": 114,
+  "name": "hemal ",
+  "email": "hemal@gmail.come",
+  "number": "0000909090",
+  "password": "11111111",
+  "createdAt": {
+    "$date": "2022-03-04T11:45:17.220Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T11:45:17.220Z"
+  },
+  "__v": 0
+}]

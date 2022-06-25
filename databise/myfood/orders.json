@@ -1,0 +1,76 @@
+[{
+  "_id": 163,
+  "u_id": 113,
+  "odrdata": [
+    {
+      "_id": 243,
+      "proname": "Cole Cannon",
+      "category": 72,
+      "mrp": 86,
+      "discountmrp": 63,
+      "stock": 57,
+      "status": "Active",
+      "description": "Id qui enim quia se",
+      "image": "1644390149733_pizza.jpg",
+      "createdAt": "2022-02-09T07:02:29.739Z",
+      "updatedAt": "2022-02-09T07:02:29.739Z",
+      "__v": 0,
+      "qty": 1
+    },
+    {
+      "_id": 216,
+      "proname": "amul-butter-panbhaji",
+      "category": 71,
+      "mrp": 38,
+      "discountmrp": 27,
+      "stock": 13,
+      "status": "Active",
+      "description": "Ratione voluptate ir",
+      "image": "1643894722259_paubhaji.jpg",
+      "createdAt": "2022-02-03T13:25:22.264Z",
+      "updatedAt": "2022-02-03T13:25:22.264Z",
+      "__v": 0,
+      "qty": 1
+    }
+  ],
+  "adrs_id": 7,
+  "name": "Dylan Conley",
+  "totalprice": 90,
+  "delevrycharge": 30,
+  "phone": 75,
+  "flatno": "23",
+  "address": "Molestias nulla nisi",
+  "pincode": 16,
+  "city": "Vel quisquam consequ",
+  "payment": "0",
+  "statuslog": [
+    {
+      "status": "Processing",
+      "statuslog": "3/22/2022, 11:34:15 AM"
+    },
+    {
+      "status": "packed",
+      "statuslog": "3/22/2022, 11:34:43 AM"
+    },
+    {
+      "status": "Shipped",
+      "statuslog": "3/22/2022, 11:35:00 AM"
+    },
+    {
+      "status": "Delivered",
+      "statuslog": "3/22/2022, 11:36:00 AM"
+    },
+    {
+      "status": "Cancelled",
+      "statuslog": "3/22/2022, 11:40:12 AM"
+    }
+  ],
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2022-03-22T06:03:32.771Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-22T06:10:12.687Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "61dc2990ef54a559ad323dd6"
+  },
+  "model": "categorys",
+  "field": "_id",
+  "groupingField": "",
+  "count": 75,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e7f6971c9477e6eb48a66f"
+  },
+  "model": "products",
+  "field": "_id",
+  "groupingField": "",
+  "count": 261,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620ce8f3975e3aaedb98d106"
+  },
+  "model": "customerlogins",
+  "field": "_id",
+  "groupingField": "",
+  "count": 114,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6219cfda1445019c0a5c8052"
+  },
+  "model": "orders",
+  "field": "_id",
+  "groupingField": "",
+  "count": 163,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "621cb54a615ae4bcb2d02f21"
+  },
+  "model": "orderProducts",
+  "field": "_id",
+  "groupingField": "",
+  "count": 243,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6225a9963a6d2efcc53b85c5"
+  },
+  "model": "cartdata",
+  "field": "_id",
+  "groupingField": "",
+  "count": 515,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62303e3c7f69161440f8d20d"
+  },
+  "model": "addresh",
+  "field": "_id",
+  "groupingField": "",
+  "count": 11,
+  "__v": 0
+}]

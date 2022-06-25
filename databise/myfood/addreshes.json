@@ -1,0 +1,145 @@
+[{
+  "_id": 4,
+  "u_id": 7,
+  "u_address": {
+    "address": "Vel qui saepe totam ",
+    "city": "Et in ipsa consecte",
+    "flatno": "40",
+    "name": "Ishmael Maxwell",
+    "phone": "7990633653",
+    "pincode": "68"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T07:29:20.816Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T07:29:20.816Z"
+  },
+  "__v": 0
+},{
+  "_id": 5,
+  "u_id": 7,
+  "u_address": {
+    "address": "Et est consectetur",
+    "city": "Laborum earum duis e",
+    "flatno": "99",
+    "name": "Bertha Pierce",
+    "phone": "1",
+    "pincode": "97"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T07:30:03.632Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T07:30:03.632Z"
+  },
+  "__v": 0
+},{
+  "_id": 6,
+  "u_id": 7,
+  "u_address": {
+    "address": "Nihil consequatur a",
+    "city": "Perspiciatis et dol",
+    "flatno": "45",
+    "name": "Kenneth Santos",
+    "phone": "11",
+    "pincode": "92"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T07:31:10.568Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T07:31:10.568Z"
+  },
+  "__v": 0
+},{
+  "_id": 7,
+  "u_id": 113,
+  "u_address": {
+    "address": "Molestias nulla nisi",
+    "city": "Vel quisquam consequ",
+    "flatno": "23",
+    "name": "Dylan Conley",
+    "phone": "75",
+    "pincode": "16"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T07:36:13.674Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T07:36:13.674Z"
+  },
+  "__v": 0
+},{
+  "_id": 8,
+  "u_id": 113,
+  "u_address": {
+    "address": "Dignissimos pariatur",
+    "city": "Eiusmod asperiores v",
+    "flatno": "79",
+    "name": "Nita Shannon",
+    "phone": "20",
+    "pincode": "50"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T07:36:42.384Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T07:36:42.384Z"
+  },
+  "__v": 0
+},{
+  "_id": 9,
+  "u_id": 113,
+  "u_address": {
+    "address": "Eum laudantium beat",
+    "city": "Labore molestiae aut",
+    "flatno": "49",
+    "name": "Ciaran Martin",
+    "phone": "36",
+    "pincode": "70"
+  },
+  "createdAt": {
+    "$date": "2022-03-15T11:00:43.613Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-15T11:00:43.613Z"
+  },
+  "__v": 0
+},{
+  "_id": 10,
+  "u_id": 113,
+  "u_address": {
+    "address": "Enim quo animi ipsu",
+    "city": "Nulla veniam volupt",
+    "flatno": "21",
+    "name": "Jane Matthews",
+    "phone": "47",
+    "pincode": "34"
+  },
+  "createdAt": {
+    "$date": "2022-03-16T06:46:53.155Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T06:46:53.155Z"
+  },
+  "__v": 0
+},{
+  "_id": 11,
+  "u_id": 113,
+  "u_address": {
+    "address": "Commodi magni numqua",
+    "city": "Esse laboris et eius",
+    "flatno": "15",
+    "name": "Jacob Lindsey",
+    "phone": "13",
+    "pincode": "13"
+  },
+  "createdAt": {
+    "$date": "2022-03-16T06:47:03.331Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-16T06:47:03.331Z"
+  },
+  "__v": 0
+}]
